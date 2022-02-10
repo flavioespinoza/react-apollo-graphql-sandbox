@@ -295,9 +295,6 @@ function DisplayDataUserCreate(props) {
   );
 }
 
-
-
-
 function Home() {
   return (
     <div className={'page-wrapper'}>
